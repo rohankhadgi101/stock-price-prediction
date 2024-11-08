@@ -1,0 +1,8 @@
+# Required libraries and dependencies
+flask
+flask-cors
+numpy
+pandas
+pandas_datareader
+matplotlib
+yfinance
